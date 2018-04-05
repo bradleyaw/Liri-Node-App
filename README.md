@@ -14,8 +14,8 @@ This application takes the following commands via the command line when running 
 
 `my-tweets`
 
-`spotify-this-song` <song name>
+`spotify-this-song <song name>`
 
-`movie-this` <move name>
+`movie-this <movie name>`
 
 `do-what-it-says`
